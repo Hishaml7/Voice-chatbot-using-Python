@@ -16,6 +16,10 @@ How to run the program:
 
 -	Install ‘pyaudio’, ‘playsound’, ‘ibm_watson’, and ‘ibm_cloud_sdk_core’ by using the command line. For example, “pip install pyaudio”.
 
+- Create 2 empty folders named 'recordings', and 'text files' in the same folder as the other python files.
+
 -	Run ‘transcribe.py’ file using the command line.
-  -	First, navigate to the folder that contains the files. 
-  - Second, run the command ‘python transcribe.py – t 10’. 10 is the number of seconds that you want the program to record your voice, and you can change it. 
+
+First, navigate to the folder that contains the files. 
+
+Second, run the command ‘python transcribe.py – t 10’. 10 is the number of seconds that you want the program to record your voice, and you can change it.
